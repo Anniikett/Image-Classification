@@ -17,6 +17,9 @@ Steps:
 10. Saving The train model
 11. Making predictions using your trained tensorflow model
 
-# restart the runtime
-#Tesnsorflow verision 
+
+# Tesnsorflow verision 
+
 !pip install tensorflow==2.0.0
+
+# restart the runtime
